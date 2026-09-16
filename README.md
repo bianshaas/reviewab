@@ -39,11 +39,11 @@ Dưới đây là 6 cái tên tiêu biểu nhất, từ giải pháp thuần Vi�
 
 ### 1. Random.ad — Lựa Chọn Thuần Việt Số Một Cho Thầy Cô Giáo
 
-Dẫn đầu danh sách công cụ phù hợp nhất cho môi trường sư phạm tại Việt Nam chính là **Random.ad**. Điểm khác biệt lớn nhất giúp nền tảng này chiếm trọn cảm tình của các thầy cô giáo là sự tối giản, tốc độ phản hồi cực nhanh trên máy chủ nội địa và hoàn toàn không gây vướng bận bởi quảng cáo rác.
+Dẫn đầu danh sách công cụ phù hợp nhất cho môi trường sư phạm tại Việt Nam chính là [**Random**](https://random.ad/). Điểm khác biệt lớn nhất giúp nền tảng này chiếm trọn cảm tình của các thầy cô giáo là sự tối giản, tốc độ phản hồi cực nhanh trên máy chủ nội địa và hoàn toàn không gây vướng bận bởi quảng cáo rác.
 
 Ngay khi truy cập, giáo viên có thể sử dụng ngay mà không cần mất công đăng ký tài khoản hay khai báo email cá nhân. Điểm sáng giá đặc biệt của Random.ad là tính năng **nhập danh sách học sinh trực tiếp từ file Excel (.xlsx, .csv)**. Thay vì phải sao chép từng cái tên, thầy cô chỉ cần tải file danh sách lớp có sẵn từ máy tính lên, hệ thống sẽ tự động phân bổ đều vào các nan quạt trên bánh xe trong vòng chưa đầy 2 giây.
 
-Bên cạnh đó, ứng dụng [**vòng quay may mắn**](https://random.ad/) tại Random.ad còn tích hợp cơ chế tự động loại bỏ tên học sinh đã hoàn thành phần trả lời, giúp các lượt gọi kế tiếp luôn mới mẻ và công bằng. Thầy cô cũng có thể tùy chỉnh màu sắc bánh xe rực rỡ, bật tắt âm thanh quay số vui nhộn và kích hoạt chế độ toàn màn hình để kết nối hoàn hảo với máy chiếu hoặc bảng thông minh.
+Bên cạnh đó, ứng dụng [**vòng quay random**](https://random.ad/) tại Random.ad còn tích hợp cơ chế tự động loại bỏ tên học sinh đã hoàn thành phần trả lời, giúp các lượt gọi kế tiếp luôn mới mẻ và công bằng. Thầy cô cũng có thể tùy chỉnh màu sắc bánh xe rực rỡ, bật tắt âm thanh quay số vui nhộn và kích hoạt chế độ toàn màn hình để kết nối hoàn hảo với máy chiếu hoặc bảng thông minh.
 
 * **Ưu điểm cốt lõi:**
   * Hoàn toàn miễn phí, mở trình duyệt là chạy ngay, không yêu cầu đăng nhập.
